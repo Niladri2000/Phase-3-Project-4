@@ -1,0 +1,1 @@
+As a developer, an Authentication Provider in Spring Security was created by Niladri Chowdhury
